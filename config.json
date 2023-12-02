@@ -1,17 +1,17 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/mahdi-malv/mahdi-malv/master/README.md",
-  "title": "LiveTerm",
+  "title": "Mahdi Malv's Homepage",
   "name": "Mahdi Malvandi",
-  "ascii": "liveterm",
+  "ascii": "mahdi-malv",
   "social": {
     "github": "mahdi-malv",
-    "linkedin": "mahdimalv"
+    "linkedin": "mahdi-malv"
   },
   "email": "hi@malv.sbs",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/mahdi-malv/homepage-1",
-  "resume_url": "",
+  "ps1_hostname": "mahdi-malv",
+  "ps1_username": "you",
+  "repo": "https://github.com/mahdi-malv/home-page-1",
+  "resume_url": "https://www.linkedin.com/in/mahdi-malv",
   "donate_urls": {
     "paypal": "",
     "patreon": ""
@@ -27,13 +27,13 @@
       "red": "#CA2124"
     },
     "dark": {
-      "background": "#1c1c1c",
-      "foreground": "#EBDBB2",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#A89984",
-      "blue": "#458588",
-      "red": "#CA2124"
+      "background": "#2E3440",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
     }
   }
 }
